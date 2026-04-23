@@ -12,5 +12,6 @@ This repository documents my journey through the 100 Days of DevOps challenge by
 ## Progress
 
 | Day | Topic | Status |
-|-----|------|-------|
-| Day 01 | Linux Basics | ✅ |
+|-----|------|--------|
+| Day 01 | [Linux Basics](./Day-01) | ✅ |
+| Day 02 | [Create User with Expiry Date](./Day-02) | ✅ |
