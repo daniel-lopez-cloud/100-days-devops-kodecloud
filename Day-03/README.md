@@ -1,5 +1,3 @@
-# Day 03 — 100 Days of KodeKloud Challenge
-
 ## Day-03: Disable Direct Root SSH Login
 
 ---
