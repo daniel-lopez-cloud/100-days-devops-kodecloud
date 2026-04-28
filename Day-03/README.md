@@ -1,7 +1,5 @@
 ## Day-03: Disable Direct Root SSH Login
 
----
-
 ## 📌 Objective
 
 The objective of this task is to enhance system security by disabling direct SSH login for the `root` user on all application servers. This configuration change reduces the attack surface and enforces the use of privileged escalation mechanisms such as `sudo`.
