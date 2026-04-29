@@ -17,3 +17,4 @@ This repository documents my journey through the 100 Days of DevOps challenge by
 | Day 02 | [Create User with Expiry Date](./Day-02) | ✅ |
 | Day 03 | [Disable Direct Root SSH Login](./Day-03) | ✅ |
 | Day 04 | [Grant Executable Permissions to Script](./Day-04) | ✅ |
+| Day 05 | [Install and Disable SELinux](./Day-05) | ✅ |
